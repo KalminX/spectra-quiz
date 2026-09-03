@@ -20,7 +20,6 @@
       // Header & Timer
       this.timerBadge = document.getElementById('timer-badge');
       this.timerText = document.getElementById('timer-text');
-      this.timerAria = document.getElementById('timer-aria');
 
       // Quiz Elements
       this.questionCategory = document.getElementById('question-category');
